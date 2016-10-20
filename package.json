@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "email-existence": "https://github.com/nmanousos/email-existence.git",
+    "email-validator": "^1.0.7"
+  }
+}
